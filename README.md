@@ -10,4 +10,4 @@ To run this, clone the Repo and then run npm run build && npm run start. Once th
 
 ## Walkthrough Video
 
-Link: 
+Link: https://drive.google.com/file/d/1f274_4Yee5TUlO294jJ6PXkwyXyy7-uz/view?usp=sharing
